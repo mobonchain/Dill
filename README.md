@@ -106,7 +106,7 @@ cd $HOME && cd dill/validator_keys
 - Nếu đang chạy **LightNode** chỉ có thể **Add thêm LightNode**
 - **Lệnh Add** : 
 ```bash
-cd $HOME/dill/2_add_validator.sh
+cd $HOME/dill && ./2_add_validator.sh
 ```
 - Sau đó làm **tương tự** với lúc tạo `Validator Keys`
 
