@@ -99,6 +99,7 @@ cd $HOME && cd dill/validator_keys
 - Dán thông tin vừa **Copy** vào ô `Paste the JSON code here`
 - Việc còn lại là tiến hành kết nối ví **có DILL**, xác nhận **Withdrawal Address** rồi **Staking DILL** là xong
 - Kiểm tra **trạng thái Validator** tại : [https://alps.dill.xyz/validators](https://alps.dill.xyz/validators)
+- **pubKey** lấy trong `deposit_data-1739xxxxx.json` hoặc gõ `./show_pubkey.sh` để lấy
 
 
 ❗ Nhớ backup lại các File khác tương tự `nano <name_file>`
