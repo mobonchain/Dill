@@ -94,7 +94,7 @@ cd $HOME && cd dill/validator_keys
   - Nếu chạy đúng sẽ có các tệp như sau : `deposit_data-1739xxxxx.json`, `keystore-m_12xxx_3600_0_0_0-1739xxxxx.json`, `keystore_password.txt` và `mnemonic-1739xxxxx.txt`
   - **⚠️ Tên tệp mỗi người dùng là khác nhau ⚠️**
 - Gõ `nano deposit_data-1739xxxxx.json` để lấy thông tin **Staking**
-- Copy toàn bộ thông tin `[{"pubkey":.......................deposit_cli_version": "2.7.0"}] 
+- Copy toàn bộ thông tin `[{"pubkey":.......................deposit_cli_version": "2.7.0"}]`
 - Truy cập [https://staking.dill.xyz/en/](https://staking.dill.xyz/en/)
 - Dán thông tin vừa **Copy** vào ô `Paste the JSON code here`
 - Việc còn lại là tiến hành kết nối ví **có DILL**, xác nhận **Withdrawal Address** rồi **Staking DILL** là xong
