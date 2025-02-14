@@ -113,7 +113,7 @@ cd $HOME/dill && ./2_add_validator.sh
 ```
 - Sau đó làm **tương tự** với lúc tạo `Validator Keys`
 
-💡 Tốt nhất là chạy **1 Full Node** & **Add 1 LightNode** sau só **Staking** hết vào **Node**, không cần chạy nhiều Node
+💡 Tốt nhất là chạy **1 Full Node** & **Add 1 LightNode** sau đó **Staking** hết vào **Node**, không cần chạy nhiều Node
 
 🔗 Tìm hiểu thêm tại <a href="https://github.com/DillLabs/launch-dill-node">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15">
