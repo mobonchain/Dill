@@ -98,6 +98,8 @@ cd $HOME && cd dill/validator_keys
 - Truy cập [https://staking.dill.xyz/en/](https://staking.dill.xyz/en/)
 - Dán thông tin vừa **Copy** vào ô `Paste the JSON code here`
 - Việc còn lại là tiến hành kết nối ví **có DILL**, xác nhận **Withdrawal Address** rồi **Staking DILL** là xong
+- Kiểm tra **trạng thái Validator** tại : [https://alps.dill.xyz/validators](https://alps.dill.xyz/validators)
+
 
 ❗ Nhớ backup lại các File khác tương tự `nano <name_file>`
 
